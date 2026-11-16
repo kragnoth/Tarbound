@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "tarbound:block/scrying_font" },
+    "facing=west":  { "model": "tarbound:block/scrying_font", "y": 90 },
+    "facing=north": { "model": "tarbound:block/scrying_font", "y": 180 },
+    "facing=east":  { "model": "tarbound:block/scrying_font", "y": 270 }
+  }
+}

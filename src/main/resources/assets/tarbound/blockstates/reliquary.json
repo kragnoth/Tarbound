@@ -1,0 +1,3129 @@
+{
+ "variants": {
+  "attach=down,book=0,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c0"
+  },
+  "attach=up,book=0,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 180
+  },
+  "attach=north,book=0,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 90
+  },
+  "attach=west,book=0,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=0,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "y": 90
+  },
+  "attach=up,book=0,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=0,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 90
+  },
+  "attach=west,book=0,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=0,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "y": 180
+  },
+  "attach=up,book=0,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=0,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 90
+  },
+  "attach=west,book=0,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=0,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "y": 270
+  },
+  "attach=up,book=0,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=0,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 90
+  },
+  "attach=west,book=0,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=0,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c1"
+  },
+  "attach=up,book=0,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 180
+  },
+  "attach=north,book=0,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 90
+  },
+  "attach=west,book=0,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=0,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "y": 90
+  },
+  "attach=up,book=0,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=0,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 90
+  },
+  "attach=west,book=0,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=0,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "y": 180
+  },
+  "attach=up,book=0,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=0,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 90
+  },
+  "attach=west,book=0,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=0,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "y": 270
+  },
+  "attach=up,book=0,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=0,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 90
+  },
+  "attach=west,book=0,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=0,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c2"
+  },
+  "attach=up,book=0,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 180
+  },
+  "attach=north,book=0,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 90
+  },
+  "attach=west,book=0,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=0,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "y": 90
+  },
+  "attach=up,book=0,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=0,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 90
+  },
+  "attach=west,book=0,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=0,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "y": 180
+  },
+  "attach=up,book=0,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=0,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 90
+  },
+  "attach=west,book=0,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=0,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "y": 270
+  },
+  "attach=up,book=0,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=0,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 90
+  },
+  "attach=west,book=0,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=0,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c3"
+  },
+  "attach=up,book=0,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 180
+  },
+  "attach=north,book=0,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 90
+  },
+  "attach=west,book=0,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=0,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "y": 90
+  },
+  "attach=up,book=0,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=0,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 90
+  },
+  "attach=west,book=0,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=0,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "y": 180
+  },
+  "attach=up,book=0,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=0,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 90
+  },
+  "attach=west,book=0,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=0,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "y": 270
+  },
+  "attach=up,book=0,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=0,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 90
+  },
+  "attach=west,book=0,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=0,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c4"
+  },
+  "attach=up,book=0,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 180
+  },
+  "attach=north,book=0,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 90
+  },
+  "attach=west,book=0,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=0,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "y": 90
+  },
+  "attach=up,book=0,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=0,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 90
+  },
+  "attach=west,book=0,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=0,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "y": 180
+  },
+  "attach=up,book=0,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=0,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 90
+  },
+  "attach=west,book=0,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=0,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "y": 270
+  },
+  "attach=up,book=0,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=0,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=0,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 90
+  },
+  "attach=west,book=0,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=0,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b0_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=0,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=1,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c0"
+  },
+  "attach=up,book=1,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 180
+  },
+  "attach=north,book=1,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 90
+  },
+  "attach=west,book=1,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=1,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "y": 90
+  },
+  "attach=up,book=1,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=1,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 90
+  },
+  "attach=west,book=1,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=1,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "y": 180
+  },
+  "attach=up,book=1,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=1,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 90
+  },
+  "attach=west,book=1,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=1,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "y": 270
+  },
+  "attach=up,book=1,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=1,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 90
+  },
+  "attach=west,book=1,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=1,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c1"
+  },
+  "attach=up,book=1,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 180
+  },
+  "attach=north,book=1,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 90
+  },
+  "attach=west,book=1,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=1,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "y": 90
+  },
+  "attach=up,book=1,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=1,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 90
+  },
+  "attach=west,book=1,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=1,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "y": 180
+  },
+  "attach=up,book=1,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=1,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 90
+  },
+  "attach=west,book=1,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=1,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "y": 270
+  },
+  "attach=up,book=1,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=1,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 90
+  },
+  "attach=west,book=1,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=1,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c2"
+  },
+  "attach=up,book=1,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 180
+  },
+  "attach=north,book=1,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 90
+  },
+  "attach=west,book=1,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=1,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "y": 90
+  },
+  "attach=up,book=1,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=1,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 90
+  },
+  "attach=west,book=1,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=1,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "y": 180
+  },
+  "attach=up,book=1,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=1,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 90
+  },
+  "attach=west,book=1,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=1,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "y": 270
+  },
+  "attach=up,book=1,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=1,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 90
+  },
+  "attach=west,book=1,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=1,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c3"
+  },
+  "attach=up,book=1,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 180
+  },
+  "attach=north,book=1,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 90
+  },
+  "attach=west,book=1,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=1,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "y": 90
+  },
+  "attach=up,book=1,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=1,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 90
+  },
+  "attach=west,book=1,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=1,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "y": 180
+  },
+  "attach=up,book=1,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=1,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 90
+  },
+  "attach=west,book=1,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=1,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "y": 270
+  },
+  "attach=up,book=1,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=1,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 90
+  },
+  "attach=west,book=1,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=1,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c4"
+  },
+  "attach=up,book=1,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 180
+  },
+  "attach=north,book=1,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 90
+  },
+  "attach=west,book=1,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=1,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "y": 90
+  },
+  "attach=up,book=1,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=1,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 90
+  },
+  "attach=west,book=1,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=1,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "y": 180
+  },
+  "attach=up,book=1,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=1,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 90
+  },
+  "attach=west,book=1,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=1,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "y": 270
+  },
+  "attach=up,book=1,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=1,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=1,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 90
+  },
+  "attach=west,book=1,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=1,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b1_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=1,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=2,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c0"
+  },
+  "attach=up,book=2,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 180
+  },
+  "attach=north,book=2,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 90
+  },
+  "attach=west,book=2,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=2,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "y": 90
+  },
+  "attach=up,book=2,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=2,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 90
+  },
+  "attach=west,book=2,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=2,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "y": 180
+  },
+  "attach=up,book=2,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=2,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 90
+  },
+  "attach=west,book=2,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=2,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "y": 270
+  },
+  "attach=up,book=2,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=2,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 90
+  },
+  "attach=west,book=2,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=2,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c1"
+  },
+  "attach=up,book=2,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 180
+  },
+  "attach=north,book=2,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 90
+  },
+  "attach=west,book=2,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=2,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "y": 90
+  },
+  "attach=up,book=2,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=2,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 90
+  },
+  "attach=west,book=2,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=2,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "y": 180
+  },
+  "attach=up,book=2,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=2,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 90
+  },
+  "attach=west,book=2,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=2,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "y": 270
+  },
+  "attach=up,book=2,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=2,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 90
+  },
+  "attach=west,book=2,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=2,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c2"
+  },
+  "attach=up,book=2,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 180
+  },
+  "attach=north,book=2,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 90
+  },
+  "attach=west,book=2,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=2,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "y": 90
+  },
+  "attach=up,book=2,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=2,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 90
+  },
+  "attach=west,book=2,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=2,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "y": 180
+  },
+  "attach=up,book=2,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=2,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 90
+  },
+  "attach=west,book=2,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=2,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "y": 270
+  },
+  "attach=up,book=2,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=2,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 90
+  },
+  "attach=west,book=2,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=2,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c3"
+  },
+  "attach=up,book=2,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 180
+  },
+  "attach=north,book=2,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 90
+  },
+  "attach=west,book=2,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=2,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "y": 90
+  },
+  "attach=up,book=2,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=2,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 90
+  },
+  "attach=west,book=2,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=2,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "y": 180
+  },
+  "attach=up,book=2,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=2,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 90
+  },
+  "attach=west,book=2,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=2,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "y": 270
+  },
+  "attach=up,book=2,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=2,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 90
+  },
+  "attach=west,book=2,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=2,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c4"
+  },
+  "attach=up,book=2,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 180
+  },
+  "attach=north,book=2,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 90
+  },
+  "attach=west,book=2,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=2,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "y": 90
+  },
+  "attach=up,book=2,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=2,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 90
+  },
+  "attach=west,book=2,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=2,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "y": 180
+  },
+  "attach=up,book=2,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=2,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 90
+  },
+  "attach=west,book=2,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=2,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "y": 270
+  },
+  "attach=up,book=2,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=2,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=2,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 90
+  },
+  "attach=west,book=2,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=2,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b2_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=2,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=3,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c0"
+  },
+  "attach=up,book=3,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 180
+  },
+  "attach=north,book=3,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 90
+  },
+  "attach=west,book=3,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=3,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "y": 90
+  },
+  "attach=up,book=3,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=3,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 90
+  },
+  "attach=west,book=3,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=3,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "y": 180
+  },
+  "attach=up,book=3,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=3,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 90
+  },
+  "attach=west,book=3,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=3,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "y": 270
+  },
+  "attach=up,book=3,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=3,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 90
+  },
+  "attach=west,book=3,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=3,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c1"
+  },
+  "attach=up,book=3,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 180
+  },
+  "attach=north,book=3,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 90
+  },
+  "attach=west,book=3,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=3,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "y": 90
+  },
+  "attach=up,book=3,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=3,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 90
+  },
+  "attach=west,book=3,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=3,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "y": 180
+  },
+  "attach=up,book=3,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=3,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 90
+  },
+  "attach=west,book=3,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=3,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "y": 270
+  },
+  "attach=up,book=3,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=3,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 90
+  },
+  "attach=west,book=3,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=3,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c2"
+  },
+  "attach=up,book=3,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 180
+  },
+  "attach=north,book=3,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 90
+  },
+  "attach=west,book=3,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=3,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "y": 90
+  },
+  "attach=up,book=3,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=3,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 90
+  },
+  "attach=west,book=3,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=3,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "y": 180
+  },
+  "attach=up,book=3,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=3,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 90
+  },
+  "attach=west,book=3,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=3,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "y": 270
+  },
+  "attach=up,book=3,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=3,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 90
+  },
+  "attach=west,book=3,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=3,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c3"
+  },
+  "attach=up,book=3,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 180
+  },
+  "attach=north,book=3,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 90
+  },
+  "attach=west,book=3,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=3,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "y": 90
+  },
+  "attach=up,book=3,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=3,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 90
+  },
+  "attach=west,book=3,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=3,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "y": 180
+  },
+  "attach=up,book=3,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=3,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 90
+  },
+  "attach=west,book=3,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=3,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "y": 270
+  },
+  "attach=up,book=3,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=3,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 90
+  },
+  "attach=west,book=3,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=3,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c4"
+  },
+  "attach=up,book=3,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 180
+  },
+  "attach=north,book=3,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 90
+  },
+  "attach=west,book=3,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=3,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "y": 90
+  },
+  "attach=up,book=3,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=3,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 90
+  },
+  "attach=west,book=3,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=3,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "y": 180
+  },
+  "attach=up,book=3,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=3,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 90
+  },
+  "attach=west,book=3,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=3,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "y": 270
+  },
+  "attach=up,book=3,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=3,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=3,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 90
+  },
+  "attach=west,book=3,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=3,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b3_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=3,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=4,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c0"
+  },
+  "attach=up,book=4,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 180
+  },
+  "attach=north,book=4,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 90
+  },
+  "attach=west,book=4,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=0,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=4,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "y": 90
+  },
+  "attach=up,book=4,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=4,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 90
+  },
+  "attach=west,book=4,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=0,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=4,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "y": 180
+  },
+  "attach=up,book=4,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=4,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 90
+  },
+  "attach=west,book=4,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=0,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=4,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "y": 270
+  },
+  "attach=up,book=4,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=4,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 90
+  },
+  "attach=west,book=4,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c0",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=0,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=4,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c1"
+  },
+  "attach=up,book=4,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 180
+  },
+  "attach=north,book=4,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 90
+  },
+  "attach=west,book=4,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=1,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=4,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "y": 90
+  },
+  "attach=up,book=4,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=4,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 90
+  },
+  "attach=west,book=4,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=1,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=4,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "y": 180
+  },
+  "attach=up,book=4,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=4,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 90
+  },
+  "attach=west,book=4,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=1,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=4,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "y": 270
+  },
+  "attach=up,book=4,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=4,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 90
+  },
+  "attach=west,book=4,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c1",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=1,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=4,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c2"
+  },
+  "attach=up,book=4,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 180
+  },
+  "attach=north,book=4,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 90
+  },
+  "attach=west,book=4,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=2,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=4,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "y": 90
+  },
+  "attach=up,book=4,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=4,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 90
+  },
+  "attach=west,book=4,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=2,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=4,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "y": 180
+  },
+  "attach=up,book=4,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=4,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 90
+  },
+  "attach=west,book=4,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=2,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=4,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "y": 270
+  },
+  "attach=up,book=4,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=4,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 90
+  },
+  "attach=west,book=4,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c2",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=2,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=4,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c3"
+  },
+  "attach=up,book=4,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 180
+  },
+  "attach=north,book=4,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 90
+  },
+  "attach=west,book=4,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=3,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=4,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "y": 90
+  },
+  "attach=up,book=4,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=4,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 90
+  },
+  "attach=west,book=4,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=3,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=4,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "y": 180
+  },
+  "attach=up,book=4,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=4,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 90
+  },
+  "attach=west,book=4,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=3,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=4,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "y": 270
+  },
+  "attach=up,book=4,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=4,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 90
+  },
+  "attach=west,book=4,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c3",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=3,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  },
+  "attach=down,book=4,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c4"
+  },
+  "attach=up,book=4,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 180
+  },
+  "attach=north,book=4,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 90
+  },
+  "attach=west,book=4,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=4,facing=south": {
+   "model": "tarbound:block/reliquary_all"
+  },
+  "attach=down,book=4,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "y": 90
+  },
+  "attach=up,book=4,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 180,
+   "y": 90
+  },
+  "attach=north,book=4,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 90
+  },
+  "attach=west,book=4,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=4,facing=west": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 90
+  },
+  "attach=down,book=4,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "y": 180
+  },
+  "attach=up,book=4,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 180,
+   "y": 180
+  },
+  "attach=north,book=4,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 90
+  },
+  "attach=west,book=4,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=4,facing=north": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 180
+  },
+  "attach=down,book=4,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "y": 270
+  },
+  "attach=up,book=4,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 180,
+   "y": 270
+  },
+  "attach=north,book=4,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 90,
+   "y": 180
+  },
+  "attach=south,book=4,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 90
+  },
+  "attach=west,book=4,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 90,
+   "y": 90
+  },
+  "attach=east,book=4,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_b4_c4",
+   "x": 90,
+   "y": 270
+  },
+  "attach=all,book=4,cover=4,facing=east": {
+   "model": "tarbound:block/reliquary_all",
+   "y": 270
+  }
+ }
+}

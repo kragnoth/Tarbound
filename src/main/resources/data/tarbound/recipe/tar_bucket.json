@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "item": "tarbound:weakened_soul"
+    },
+    {
+      "item": "tarbound:weakened_soul"
+    },
+    {
+      "item": "tarbound:weakened_soul"
+    },
+    {
+      "item": "tarbound:weakened_soul"
+    }
+  ],
+  "result": {
+    "id": "tarbound:tar_bucket",
+    "count": 1
+  }
+}

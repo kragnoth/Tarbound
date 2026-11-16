@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "IBI",
+    "PPP"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "I": {
+      "item": "minecraft:ink_sac"
+    },
+    "B": {
+      "item": "minecraft:bone"
+    },
+    "P": {
+      "item": "tarbound:tar_soaked_planks"
+    }
+  },
+  "result": {
+    "id": "tarbound:spirit_board",
+    "count": 1
+  }
+}

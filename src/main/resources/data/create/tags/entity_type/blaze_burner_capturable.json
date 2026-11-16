@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "tarbound:weakened_blaze", "required": false }
+  ]
+}

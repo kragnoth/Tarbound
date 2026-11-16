@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:lectern" },
+    { "item": "minecraft:feather" },
+    { "item": "minecraft:ink_sac" },
+    { "item": "tarbound:tar_bucket" }
+  ],
+  "result": { "id": "tarbound:scribing_lectern", "count": 1 }
+}

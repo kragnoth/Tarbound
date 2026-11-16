@@ -1,0 +1,36 @@
+{
+  "parent": "tarbound:researcher_cabin",
+  "display": {
+    "icon": {
+      "id": "minecraft:bone_block"
+    },
+    "title": {
+      "translate": "advancements.tarbound.charnel_crypt.title"
+    },
+    "description": {
+      "translate": "advancements.tarbound.charnel_crypt.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "tarbound:charnel_crypt"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "parent": "tarbound:first_order",
+  "display": {
+    "icon": {
+      "id": "tarbound:shade"
+    },
+    "title": {
+      "translate": "advancements.tarbound.shade.title"
+    },
+    "description": {
+      "translate": "advancements.tarbound.shade.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:block_state_property",
+            "block": "tarbound:shade"
+          }
+        ]
+      }
+    }
+  }
+}

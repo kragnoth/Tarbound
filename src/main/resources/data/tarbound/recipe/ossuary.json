@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "C C",
+    "BAB",
+    "BBB"
+  ],
+  "key": {
+    "C": {
+      "tag": "minecraft:candles"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "B": {
+      "item": "minecraft:bone_block"
+    }
+  },
+  "result": {
+    "id": "tarbound:ossuary",
+    "count": 1
+  }
+}

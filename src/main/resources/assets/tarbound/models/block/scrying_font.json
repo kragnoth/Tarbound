@@ -1,0 +1,105 @@
+{
+  "credit": "Tarbound — haunted radio, hand-built cube model (Blockbench-compatible)",
+  "parent": "minecraft:block/block",
+  "textures": {
+    "case": "tarbound:block/scrying_font_case",
+    "front": "tarbound:block/scrying_font_front",
+    "parts": "tarbound:block/scrying_font_parts",
+    "particle": "tarbound:block/scrying_font_case"
+  },
+  "elements": [
+    {
+      "name": "plinth",
+      "from": [1, 0, 4], "to": [15, 1, 12],
+      "faces": {
+        "north": {"uv": [1, 10, 15, 11], "texture": "#parts"},
+        "south": {"uv": [1, 10, 15, 11], "texture": "#parts"},
+        "east":  {"uv": [4, 10, 12, 11], "texture": "#parts"},
+        "west":  {"uv": [4, 10, 12, 11], "texture": "#parts"},
+        "up":    {"uv": [1, 12, 15, 15], "texture": "#parts"},
+        "down":  {"uv": [1, 12, 15, 15], "texture": "#parts", "cullface": "down"}
+      }
+    },
+    {
+      "name": "body",
+      "from": [1, 1, 4], "to": [15, 8, 12],
+      "faces": {
+        "north": {"uv": [1, 2, 15, 9], "texture": "#case"},
+        "south": {"uv": [0, 0, 14, 7], "texture": "#front"},
+        "east":  {"uv": [4, 2, 12, 9], "texture": "#case"},
+        "west":  {"uv": [4, 2, 12, 9], "texture": "#case"},
+        "up":    {"uv": [1, 4, 15, 12], "texture": "#case"},
+        "down":  {"uv": [1, 4, 15, 12], "texture": "#case"}
+      }
+    },
+    {
+      "name": "crown",
+      "from": [2, 8, 4], "to": [14, 9, 12],
+      "faces": {
+        "north": {"uv": [2, 0, 14, 1], "texture": "#case"},
+        "south": {"uv": [2, 0, 14, 1], "texture": "#case"},
+        "east":  {"uv": [4, 0, 12, 1], "texture": "#case"},
+        "west":  {"uv": [4, 0, 12, 1], "texture": "#case"},
+        "up":    {"uv": [2, 4, 14, 12], "texture": "#case"}
+      }
+    },
+    {
+      "name": "dial_glass",
+      "from": [4, 5, 12], "to": [12, 7, 12.5],
+      "shade": false,
+      "faces": {
+        "south": {"uv": [0, 0, 8, 2], "texture": "#parts", "neoforge_data": {"block_light": 15, "sky_light": 15, "ambient_occlusion": false}},
+        "east":  {"uv": [10, 0, 11, 1], "texture": "#parts"},
+        "west":  {"uv": [10, 0, 11, 1], "texture": "#parts"},
+        "up":    {"uv": [15, 15, 16, 16], "texture": "#parts"},
+        "down":  {"uv": [15, 15, 16, 16], "texture": "#parts"}
+      }
+    },
+    {
+      "name": "magic_eye",
+      "from": [13, 5, 12], "to": [14, 6, 12.5],
+      "shade": false,
+      "faces": {
+        "south": {"uv": [8, 0, 9, 1], "texture": "#parts", "neoforge_data": {"block_light": 15, "sky_light": 15, "ambient_occlusion": false}},
+        "east":  {"uv": [9, 0, 10, 1], "texture": "#parts"},
+        "west":  {"uv": [9, 0, 10, 1], "texture": "#parts"},
+        "up":    {"uv": [9, 0, 10, 1], "texture": "#parts"},
+        "down":  {"uv": [9, 0, 10, 1], "texture": "#parts"}
+      }
+    },
+    {
+      "name": "knob_left",
+      "from": [3, 2, 12], "to": [5, 4, 13],
+      "faces": {
+        "south": {"uv": [0, 4, 2, 6], "texture": "#parts"},
+        "east":  {"uv": [2, 4, 3, 6], "texture": "#parts"},
+        "west":  {"uv": [2, 4, 3, 6], "texture": "#parts"},
+        "up":    {"uv": [0, 6, 2, 7], "texture": "#parts"},
+        "down":  {"uv": [0, 6, 2, 7], "texture": "#parts"}
+      }
+    },
+    {
+      "name": "knob_right",
+      "from": [11, 2, 12], "to": [13, 4, 13],
+      "faces": {
+        "south": {"uv": [0, 4, 2, 6], "texture": "#parts", "rotation": 90},
+        "east":  {"uv": [2, 4, 3, 6], "texture": "#parts"},
+        "west":  {"uv": [2, 4, 3, 6], "texture": "#parts"},
+        "up":    {"uv": [0, 6, 2, 7], "texture": "#parts"},
+        "down":  {"uv": [0, 6, 2, 7], "texture": "#parts"}
+      }
+    },
+    {
+      "name": "antenna",
+      "from": [12, 9, 6], "to": [13, 15, 7],
+      "rotation": {"angle": -22.5, "axis": "z", "origin": [12.5, 9, 6.5]},
+      "faces": {
+        "north": {"uv": [12, 0, 13, 6], "texture": "#parts"},
+        "south": {"uv": [12, 0, 13, 6], "texture": "#parts"},
+        "east":  {"uv": [12, 0, 13, 6], "texture": "#parts"},
+        "west":  {"uv": [12, 0, 13, 6], "texture": "#parts"},
+        "up":    {"uv": [13, 0, 14, 1], "texture": "#parts"}
+      }
+    }
+  ]
+}

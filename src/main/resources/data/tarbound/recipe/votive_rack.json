@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "CCC",
+    "PIP",
+    "P P"
+  ],
+  "key": {
+    "C": {
+      "tag": "minecraft:candles"
+    },
+    "P": {
+      "item": "tarbound:tar_soaked_planks"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "tarbound:votive_rack",
+    "count": 1
+  }
+}

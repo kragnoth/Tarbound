@@ -1,0 +1,49 @@
+{
+  "block.scrying_font.static": {
+    "subtitle": "subtitles.tarbound.block.scrying_font.static",
+    "sounds": [
+      {
+        "name": "tarbound:radio/static1",
+        "volume": 0.6
+      },
+      {
+        "name": "tarbound:radio/static2",
+        "volume": 0.6
+      }
+    ]
+  },
+  "block.scrying_font.tune": {
+    "subtitle": "subtitles.tarbound.block.scrying_font.tune",
+    "sounds": [
+      "tarbound:radio/tune"
+    ]
+  },
+  "block.tar.gulp": {
+    "subtitle": "subtitles.tarbound.block.tar.gulp",
+    "sounds": [
+      {
+        "name": "minecraft:entity.generic.drink",
+        "type": "event",
+        "pitch": 0.55,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:item.honey_bottle.drink",
+        "type": "event",
+        "pitch": 0.6,
+        "volume": 0.8
+      }
+    ]
+  },
+  "block.tar.spit": {
+    "subtitle": "subtitles.tarbound.block.tar.spit",
+    "sounds": [
+      {
+        "name": "minecraft:entity.llama.spit",
+        "type": "event",
+        "pitch": 0.6,
+        "volume": 0.7
+      }
+    ]
+  }
+}

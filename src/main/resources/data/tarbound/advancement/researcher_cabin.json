@@ -1,0 +1,36 @@
+{
+  "parent": "tarbound:root",
+  "display": {
+    "icon": {
+      "id": "minecraft:brown_bed"
+    },
+    "title": {
+      "translate": "advancements.tarbound.researcher_cabin.title"
+    },
+    "description": {
+      "translate": "advancements.tarbound.researcher_cabin.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "tarbound:researcher_cabin"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

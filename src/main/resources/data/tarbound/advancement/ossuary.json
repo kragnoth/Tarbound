@@ -1,0 +1,31 @@
+{
+  "parent": "tarbound:contract",
+  "display": {
+    "icon": {
+      "id": "tarbound:ossuary"
+    },
+    "title": {
+      "translate": "advancements.tarbound.ossuary.title"
+    },
+    "description": {
+      "translate": "advancements.tarbound.ossuary.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:block_state_property",
+            "block": "tarbound:ossuary"
+          }
+        ]
+      }
+    }
+  }
+}

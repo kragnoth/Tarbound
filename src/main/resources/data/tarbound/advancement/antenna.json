@@ -1,0 +1,31 @@
+{
+  "parent": "tarbound:scrying_font",
+  "display": {
+    "icon": {
+      "id": "tarbound:tar_antenna"
+    },
+    "title": {
+      "translate": "advancements.tarbound.antenna.title"
+    },
+    "description": {
+      "translate": "advancements.tarbound.antenna.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:block_state_property",
+            "block": "tarbound:tar_antenna"
+          }
+        ]
+      }
+    }
+  }
+}

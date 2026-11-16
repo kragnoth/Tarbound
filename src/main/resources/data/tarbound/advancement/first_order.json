@@ -1,0 +1,23 @@
+{
+  "parent": "tarbound:contract",
+  "display": {
+    "icon": {
+      "id": "minecraft:writable_book"
+    },
+    "title": {
+      "translate": "advancements.tarbound.first_order.title"
+    },
+    "description": {
+      "translate": "advancements.tarbound.first_order.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

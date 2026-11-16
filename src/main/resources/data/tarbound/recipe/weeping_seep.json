@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "LWL",
+    "CTC",
+    "LVL"
+  ],
+  "key": {
+    "L": {
+      "item": "tarbound:tar_soaked_log"
+    },
+    "W": {
+      "item": "tarbound:weakened_soul"
+    },
+    "C": {
+      "tag": "minecraft:candles"
+    },
+    "T": {
+      "item": "tarbound:tar_bucket"
+    },
+    "V": {
+      "item": "tarbound:votive_skull"
+    }
+  },
+  "result": {
+    "id": "tarbound:weeping_seep",
+    "count": 1
+  }
+}

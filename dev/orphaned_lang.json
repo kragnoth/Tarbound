@@ -1,0 +1,6 @@
+{
+  "_note": "Lang entries no longer used by the code (old face view / machine-window legend). Kept here for later; not packaged.",
+  "gui.tarbound.face.slots": "Slots: %s",
+  "gui.tarbound.role.fuel_short": "fuel",
+  "gui.tarbound.role.output_short": "output"
+}

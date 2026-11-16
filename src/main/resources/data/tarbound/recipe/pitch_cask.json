@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PIP",
+    "P P",
+    "PIP"
+  ],
+  "key": {
+    "P": {
+      "item": "tarbound:tar_soaked_planks"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "tarbound:pitch_cask",
+    "count": 1
+  }
+}

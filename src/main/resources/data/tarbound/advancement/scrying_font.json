@@ -1,0 +1,31 @@
+{
+  "parent": "tarbound:tar",
+  "display": {
+    "icon": {
+      "id": "tarbound:scrying_font"
+    },
+    "title": {
+      "translate": "advancements.tarbound.scrying_font.title"
+    },
+    "description": {
+      "translate": "advancements.tarbound.scrying_font.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:block_state_property",
+            "block": "tarbound:scrying_font"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "parent": "tarbound:reliquary",
+  "display": {
+    "icon": {
+      "id": "minecraft:candle"
+    },
+    "title": {
+      "translate": "advancements.tarbound.sixteen_candles.title"
+    },
+    "description": {
+      "translate": "advancements.tarbound.sixteen_candles.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

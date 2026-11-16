@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "LLL",
+    "LTL",
+    "LLL"
+  ],
+  "key": {
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "T": {
+      "item": "tarbound:tar_bucket"
+    }
+  },
+  "result": {
+    "id": "tarbound:tar_soaked_log",
+    "count": 8
+  }
+}

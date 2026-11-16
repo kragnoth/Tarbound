@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=north,lit=false,skull=false": {
+      "model": "tarbound:block/votive_rack"
+    },
+    "facing=north,lit=false,skull=true": {
+      "model": "tarbound:block/votive_rack_skull"
+    },
+    "facing=north,lit=true,skull=false": {
+      "model": "tarbound:block/votive_rack_lit"
+    },
+    "facing=north,lit=true,skull=true": {
+      "model": "tarbound:block/votive_rack_skull_lit"
+    },
+    "facing=east,lit=false,skull=false": {
+      "model": "tarbound:block/votive_rack",
+      "y": 90
+    },
+    "facing=east,lit=false,skull=true": {
+      "model": "tarbound:block/votive_rack_skull",
+      "y": 90
+    },
+    "facing=east,lit=true,skull=false": {
+      "model": "tarbound:block/votive_rack_lit",
+      "y": 90
+    },
+    "facing=east,lit=true,skull=true": {
+      "model": "tarbound:block/votive_rack_skull_lit",
+      "y": 90
+    },
+    "facing=south,lit=false,skull=false": {
+      "model": "tarbound:block/votive_rack",
+      "y": 180
+    },
+    "facing=south,lit=false,skull=true": {
+      "model": "tarbound:block/votive_rack_skull",
+      "y": 180
+    },
+    "facing=south,lit=true,skull=false": {
+      "model": "tarbound:block/votive_rack_lit",
+      "y": 180
+    },
+    "facing=south,lit=true,skull=true": {
+      "model": "tarbound:block/votive_rack_skull_lit",
+      "y": 180
+    },
+    "facing=west,lit=false,skull=false": {
+      "model": "tarbound:block/votive_rack",
+      "y": 270
+    },
+    "facing=west,lit=false,skull=true": {
+      "model": "tarbound:block/votive_rack_skull",
+      "y": 270
+    },
+    "facing=west,lit=true,skull=false": {
+      "model": "tarbound:block/votive_rack_lit",
+      "y": 270
+    },
+    "facing=west,lit=true,skull=true": {
+      "model": "tarbound:block/votive_rack_skull_lit",
+      "y": 270
+    }
+  }
+}

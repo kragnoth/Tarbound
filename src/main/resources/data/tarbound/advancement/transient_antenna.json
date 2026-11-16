@@ -1,0 +1,31 @@
+{
+  "parent": "tarbound:antenna",
+  "display": {
+    "icon": {
+      "id": "tarbound:transient_antenna"
+    },
+    "title": {
+      "translate": "advancements.tarbound.transient_antenna.title"
+    },
+    "description": {
+      "translate": "advancements.tarbound.transient_antenna.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:block_state_property",
+            "block": "tarbound:transient_antenna"
+          }
+        ]
+      }
+    }
+  }
+}

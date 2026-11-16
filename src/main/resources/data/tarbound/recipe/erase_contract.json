@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [ { "item": "tarbound:spirit_contract" } ],
+  "result": { "id": "tarbound:blank_contract", "count": 1 }
+}

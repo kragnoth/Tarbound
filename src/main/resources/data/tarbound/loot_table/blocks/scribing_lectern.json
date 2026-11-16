@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [ { "type": "minecraft:item", "name": "tarbound:scribing_lectern" } ],
+      "conditions": [ { "condition": "minecraft:survives_explosion" } ]
+    }
+  ],
+  "random_sequence": "tarbound:blocks/scribing_lectern"
+}

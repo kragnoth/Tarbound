@@ -1,0 +1,30 @@
+{
+  "parent": "tarbound:reliquary",
+  "display": {
+    "icon": {
+      "id": "tarbound:spirit_contract"
+    },
+    "title": {
+      "translate": "advancements.tarbound.contract.title"
+    },
+    "description": {
+      "translate": "advancements.tarbound.contract.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "tarbound:spirit_contract"
+          }
+        ]
+      }
+    }
+  }
+}

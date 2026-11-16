@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "tarbound:block/tar_soaked_log_top",
+    "bottom": "tarbound:block/tar_still",
+    "side": "tarbound:block/tar_soaked_log"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "create:chute",
+      "required": false
+    },
+    {
+      "id": "create:smart_chute",
+      "required": false
+    },
+    {
+      "id": "create:belt",
+      "required": false
+    },
+    {
+      "id": "create:andesite_tunnel",
+      "required": false
+    },
+    {
+      "id": "create:brass_tunnel",
+      "required": false
+    },
+    {
+      "id": "create:depot",
+      "required": false
+    },
+    {
+      "id": "create:weighted_ejector",
+      "required": false
+    },
+    {
+      "id": "create:andesite_funnel",
+      "required": false
+    },
+    {
+      "id": "create:brass_funnel",
+      "required": false
+    },
+    {
+      "id": "create:andesite_belt_funnel",
+      "required": false
+    },
+    {
+      "id": "create:brass_belt_funnel",
+      "required": false
+    },
+    {
+      "id": "create:fluid_pipe",
+      "required": false
+    },
+    {
+      "id": "create:encased_fluid_pipe",
+      "required": false
+    },
+    {
+      "id": "create:glass_fluid_pipe",
+      "required": false
+    },
+    {
+      "id": "create:mechanical_pump",
+      "required": false
+    },
+    {
+      "id": "create:smart_fluid_pipe",
+      "required": false
+    },
+    {
+      "id": "create:fluid_valve",
+      "required": false
+    },
+    {
+      "id": "create:hose_pulley",
+      "required": false
+    },
+    {
+      "id": "create:portable_fluid_interface",
+      "required": false
+    },
+    {
+      "id": "moderndynamics:item_pipe",
+      "required": false
+    },
+    {
+      "id": "moderndynamics:fluid_pipe",
+      "required": false
+    },
+    {
+      "id": "enderio:conduit",
+      "required": false
+    },
+    {
+      "id": "mekanism:basic_logistical_transporter",
+      "required": false
+    },
+    {
+      "id": "mekanism:basic_mechanical_pipe",
+      "required": false
+    },
+    {
+      "id": "mekanism:advanced_logistical_transporter",
+      "required": false
+    },
+    {
+      "id": "mekanism:advanced_mechanical_pipe",
+      "required": false
+    },
+    {
+      "id": "mekanism:elite_logistical_transporter",
+      "required": false
+    },
+    {
+      "id": "mekanism:elite_mechanical_pipe",
+      "required": false
+    },
+    {
+      "id": "mekanism:ultimate_logistical_transporter",
+      "required": false
+    },
+    {
+      "id": "mekanism:ultimate_mechanical_pipe",
+      "required": false
+    },
+    {
+      "id": "mekanism:restrictive_transporter",
+      "required": false
+    },
+    {
+      "id": "mekanism:diversion_transporter",
+      "required": false
+    },
+    {
+      "id": "pipez:item_pipe",
+      "required": false
+    },
+    {
+      "id": "pipez:fluid_pipe",
+      "required": false
+    },
+    {
+      "id": "pipez:energy_pipe",
+      "required": false
+    },
+    {
+      "id": "pipez:gas_pipe",
+      "required": false
+    },
+    {
+      "id": "pipez:universal_pipe",
+      "required": false
+    }
+  ]
+}

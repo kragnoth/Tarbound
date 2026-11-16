@@ -1,0 +1,10 @@
+{
+  "values": {
+    "tarbound:tar_soaked_planks": {
+      "burn_time": 600
+    },
+    "tarbound:tar_soaked_log": {
+      "burn_time": 600
+    }
+  }
+}

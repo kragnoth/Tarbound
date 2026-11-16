@@ -1,0 +1,23 @@
+{
+  "parent": "tarbound:reliquary",
+  "display": {
+    "icon": {
+      "id": "minecraft:chiseled_bookshelf"
+    },
+    "title": {
+      "translate": "advancements.tarbound.all_sides.title"
+    },
+    "description": {
+      "translate": "advancements.tarbound.all_sides.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

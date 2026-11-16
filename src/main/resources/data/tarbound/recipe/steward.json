@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " O ",
+    "EHE",
+    "STS"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:observer"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "H": {
+      "item": "tarbound:shade"
+    },
+    "S": {
+      "item": "tarbound:weakened_soul"
+    },
+    "T": {
+      "item": "tarbound:tar_bucket"
+    }
+  },
+  "result": {
+    "id": "tarbound:steward",
+    "count": 1
+  }
+}

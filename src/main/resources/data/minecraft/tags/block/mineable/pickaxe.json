@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "tarbound:scrying_font",
+    "tarbound:reliquary",
+    "tarbound:tar_antenna",
+    "tarbound:transient_antenna",
+    "tarbound:ossuary"
+  ]
+}

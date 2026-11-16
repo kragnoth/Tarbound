@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "tarbound:tar_soaked_log"
+    }
+  ],
+  "result": {
+    "id": "tarbound:tar_soaked_planks",
+    "count": 4
+  }
+}

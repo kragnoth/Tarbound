@@ -1,0 +1,23 @@
+{
+  "parent": "tarbound:weakened_blaze",
+  "display": {
+    "icon": {
+      "id": "minecraft:flint_and_steel"
+    },
+    "title": {
+      "translate": "advancements.tarbound.scorched_spawner.title"
+    },
+    "description": {
+      "translate": "advancements.tarbound.scorched_spawner.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

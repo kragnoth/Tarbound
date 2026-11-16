@@ -1,0 +1,82 @@
+{
+  "variants": {
+    "facing=up,mode=idle": {
+      "model": "tarbound:block/transient_antenna_idle"
+    },
+    "facing=up,mode=pull": {
+      "model": "tarbound:block/transient_antenna_pull"
+    },
+    "facing=up,mode=push": {
+      "model": "tarbound:block/transient_antenna_push"
+    },
+    "facing=down,mode=idle": {
+      "model": "tarbound:block/transient_antenna_idle",
+      "x": 180
+    },
+    "facing=down,mode=pull": {
+      "model": "tarbound:block/transient_antenna_pull",
+      "x": 180
+    },
+    "facing=down,mode=push": {
+      "model": "tarbound:block/transient_antenna_push",
+      "x": 180
+    },
+    "facing=north,mode=idle": {
+      "model": "tarbound:block/transient_antenna_idle",
+      "x": 90
+    },
+    "facing=north,mode=pull": {
+      "model": "tarbound:block/transient_antenna_pull",
+      "x": 90
+    },
+    "facing=north,mode=push": {
+      "model": "tarbound:block/transient_antenna_push",
+      "x": 90
+    },
+    "facing=south,mode=idle": {
+      "model": "tarbound:block/transient_antenna_idle",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,mode=pull": {
+      "model": "tarbound:block/transient_antenna_pull",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,mode=push": {
+      "model": "tarbound:block/transient_antenna_push",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west,mode=idle": {
+      "model": "tarbound:block/transient_antenna_idle",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,mode=pull": {
+      "model": "tarbound:block/transient_antenna_pull",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,mode=push": {
+      "model": "tarbound:block/transient_antenna_push",
+      "x": 90,
+      "y": 270
+    },
+    "facing=east,mode=idle": {
+      "model": "tarbound:block/transient_antenna_idle",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,mode=pull": {
+      "model": "tarbound:block/transient_antenna_pull",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,mode=push": {
+      "model": "tarbound:block/transient_antenna_push",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

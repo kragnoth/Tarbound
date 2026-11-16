@@ -1,0 +1,23 @@
+{
+  "parent": "tarbound:scrying_font",
+  "display": {
+    "icon": {
+      "id": "tarbound:spirit_board"
+    },
+    "title": {
+      "translate": "advancements.tarbound.spirit_board.title"
+    },
+    "description": {
+      "translate": "advancements.tarbound.spirit_board.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

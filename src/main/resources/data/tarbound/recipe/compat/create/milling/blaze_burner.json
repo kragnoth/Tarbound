@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:blaze_burner"
+    }
+  ],
+  "processing_time": 250,
+  "results": [
+    {
+      "id": "create:empty_blaze_burner"
+    },
+    {
+      "id": "tarbound:weakened_soul",
+      "count": 3
+    },
+    {
+      "id": "tarbound:weakened_soul",
+      "count": 2,
+      "chance": 0.5
+    },
+    {
+      "id": "tarbound:weakened_soul",
+      "count": 2,
+      "chance": 0.5
+    }
+  ]
+}

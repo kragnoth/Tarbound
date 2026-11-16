@@ -1,0 +1,472 @@
+{
+ "variants": {
+  "facing=up,mode=commune,stage=single": {
+   "model": "tarbound:block/tar_antenna_single_commune"
+  },
+  "facing=up,mode=scry,stage=single": {
+   "model": "tarbound:block/tar_antenna_single_scry"
+  },
+  "facing=up,mode=tithe,stage=single": {
+   "model": "tarbound:block/tar_antenna_single_tithe"
+  },
+  "facing=up,mode=commune,stage=base2": {
+   "model": "tarbound:block/tar_antenna_base2"
+  },
+  "facing=up,mode=scry,stage=base2": {
+   "model": "tarbound:block/tar_antenna_base2"
+  },
+  "facing=up,mode=tithe,stage=base2": {
+   "model": "tarbound:block/tar_antenna_base2"
+  },
+  "facing=up,mode=commune,stage=top2": {
+   "model": "tarbound:block/tar_antenna_top2_commune"
+  },
+  "facing=up,mode=scry,stage=top2": {
+   "model": "tarbound:block/tar_antenna_top2_scry"
+  },
+  "facing=up,mode=tithe,stage=top2": {
+   "model": "tarbound:block/tar_antenna_top2_tithe"
+  },
+  "facing=up,mode=commune,stage=base3": {
+   "model": "tarbound:block/tar_antenna_base3"
+  },
+  "facing=up,mode=scry,stage=base3": {
+   "model": "tarbound:block/tar_antenna_base3"
+  },
+  "facing=up,mode=tithe,stage=base3": {
+   "model": "tarbound:block/tar_antenna_base3"
+  },
+  "facing=up,mode=commune,stage=mid3": {
+   "model": "tarbound:block/tar_antenna_mid3"
+  },
+  "facing=up,mode=scry,stage=mid3": {
+   "model": "tarbound:block/tar_antenna_mid3"
+  },
+  "facing=up,mode=tithe,stage=mid3": {
+   "model": "tarbound:block/tar_antenna_mid3"
+  },
+  "facing=up,mode=commune,stage=top3": {
+   "model": "tarbound:block/tar_antenna_top3_commune"
+  },
+  "facing=up,mode=scry,stage=top3": {
+   "model": "tarbound:block/tar_antenna_top3_scry"
+  },
+  "facing=up,mode=tithe,stage=top3": {
+   "model": "tarbound:block/tar_antenna_top3_tithe"
+  },
+  "facing=down,mode=commune,stage=single": {
+   "model": "tarbound:block/tar_antenna_single_commune",
+   "x": 180
+  },
+  "facing=down,mode=scry,stage=single": {
+   "model": "tarbound:block/tar_antenna_single_scry",
+   "x": 180
+  },
+  "facing=down,mode=tithe,stage=single": {
+   "model": "tarbound:block/tar_antenna_single_tithe",
+   "x": 180
+  },
+  "facing=down,mode=commune,stage=base2": {
+   "model": "tarbound:block/tar_antenna_base2",
+   "x": 180
+  },
+  "facing=down,mode=scry,stage=base2": {
+   "model": "tarbound:block/tar_antenna_base2",
+   "x": 180
+  },
+  "facing=down,mode=tithe,stage=base2": {
+   "model": "tarbound:block/tar_antenna_base2",
+   "x": 180
+  },
+  "facing=down,mode=commune,stage=top2": {
+   "model": "tarbound:block/tar_antenna_top2_commune",
+   "x": 180
+  },
+  "facing=down,mode=scry,stage=top2": {
+   "model": "tarbound:block/tar_antenna_top2_scry",
+   "x": 180
+  },
+  "facing=down,mode=tithe,stage=top2": {
+   "model": "tarbound:block/tar_antenna_top2_tithe",
+   "x": 180
+  },
+  "facing=down,mode=commune,stage=base3": {
+   "model": "tarbound:block/tar_antenna_base3",
+   "x": 180
+  },
+  "facing=down,mode=scry,stage=base3": {
+   "model": "tarbound:block/tar_antenna_base3",
+   "x": 180
+  },
+  "facing=down,mode=tithe,stage=base3": {
+   "model": "tarbound:block/tar_antenna_base3",
+   "x": 180
+  },
+  "facing=down,mode=commune,stage=mid3": {
+   "model": "tarbound:block/tar_antenna_mid3",
+   "x": 180
+  },
+  "facing=down,mode=scry,stage=mid3": {
+   "model": "tarbound:block/tar_antenna_mid3",
+   "x": 180
+  },
+  "facing=down,mode=tithe,stage=mid3": {
+   "model": "tarbound:block/tar_antenna_mid3",
+   "x": 180
+  },
+  "facing=down,mode=commune,stage=top3": {
+   "model": "tarbound:block/tar_antenna_top3_commune",
+   "x": 180
+  },
+  "facing=down,mode=scry,stage=top3": {
+   "model": "tarbound:block/tar_antenna_top3_scry",
+   "x": 180
+  },
+  "facing=down,mode=tithe,stage=top3": {
+   "model": "tarbound:block/tar_antenna_top3_tithe",
+   "x": 180
+  },
+  "facing=north,mode=commune,stage=single": {
+   "model": "tarbound:block/tar_antenna_single_commune",
+   "x": 90
+  },
+  "facing=north,mode=scry,stage=single": {
+   "model": "tarbound:block/tar_antenna_single_scry",
+   "x": 90
+  },
+  "facing=north,mode=tithe,stage=single": {
+   "model": "tarbound:block/tar_antenna_single_tithe",
+   "x": 90
+  },
+  "facing=north,mode=commune,stage=base2": {
+   "model": "tarbound:block/tar_antenna_base2",
+   "x": 90
+  },
+  "facing=north,mode=scry,stage=base2": {
+   "model": "tarbound:block/tar_antenna_base2",
+   "x": 90
+  },
+  "facing=north,mode=tithe,stage=base2": {
+   "model": "tarbound:block/tar_antenna_base2",
+   "x": 90
+  },
+  "facing=north,mode=commune,stage=top2": {
+   "model": "tarbound:block/tar_antenna_top2_commune",
+   "x": 90
+  },
+  "facing=north,mode=scry,stage=top2": {
+   "model": "tarbound:block/tar_antenna_top2_scry",
+   "x": 90
+  },
+  "facing=north,mode=tithe,stage=top2": {
+   "model": "tarbound:block/tar_antenna_top2_tithe",
+   "x": 90
+  },
+  "facing=north,mode=commune,stage=base3": {
+   "model": "tarbound:block/tar_antenna_base3",
+   "x": 90
+  },
+  "facing=north,mode=scry,stage=base3": {
+   "model": "tarbound:block/tar_antenna_base3",
+   "x": 90
+  },
+  "facing=north,mode=tithe,stage=base3": {
+   "model": "tarbound:block/tar_antenna_base3",
+   "x": 90
+  },
+  "facing=north,mode=commune,stage=mid3": {
+   "model": "tarbound:block/tar_antenna_mid3",
+   "x": 90
+  },
+  "facing=north,mode=scry,stage=mid3": {
+   "model": "tarbound:block/tar_antenna_mid3",
+   "x": 90
+  },
+  "facing=north,mode=tithe,stage=mid3": {
+   "model": "tarbound:block/tar_antenna_mid3",
+   "x": 90
+  },
+  "facing=north,mode=commune,stage=top3": {
+   "model": "tarbound:block/tar_antenna_top3_commune",
+   "x": 90
+  },
+  "facing=north,mode=scry,stage=top3": {
+   "model": "tarbound:block/tar_antenna_top3_scry",
+   "x": 90
+  },
+  "facing=north,mode=tithe,stage=top3": {
+   "model": "tarbound:block/tar_antenna_top3_tithe",
+   "x": 90
+  },
+  "facing=south,mode=commune,stage=single": {
+   "model": "tarbound:block/tar_antenna_single_commune",
+   "x": 90,
+   "y": 180
+  },
+  "facing=south,mode=scry,stage=single": {
+   "model": "tarbound:block/tar_antenna_single_scry",
+   "x": 90,
+   "y": 180
+  },
+  "facing=south,mode=tithe,stage=single": {
+   "model": "tarbound:block/tar_antenna_single_tithe",
+   "x": 90,
+   "y": 180
+  },
+  "facing=south,mode=commune,stage=base2": {
+   "model": "tarbound:block/tar_antenna_base2",
+   "x": 90,
+   "y": 180
+  },
+  "facing=south,mode=scry,stage=base2": {
+   "model": "tarbound:block/tar_antenna_base2",
+   "x": 90,
+   "y": 180
+  },
+  "facing=south,mode=tithe,stage=base2": {
+   "model": "tarbound:block/tar_antenna_base2",
+   "x": 90,
+   "y": 180
+  },
+  "facing=south,mode=commune,stage=top2": {
+   "model": "tarbound:block/tar_antenna_top2_commune",
+   "x": 90,
+   "y": 180
+  },
+  "facing=south,mode=scry,stage=top2": {
+   "model": "tarbound:block/tar_antenna_top2_scry",
+   "x": 90,
+   "y": 180
+  },
+  "facing=south,mode=tithe,stage=top2": {
+   "model": "tarbound:block/tar_antenna_top2_tithe",
+   "x": 90,
+   "y": 180
+  },
+  "facing=south,mode=commune,stage=base3": {
+   "model": "tarbound:block/tar_antenna_base3",
+   "x": 90,
+   "y": 180
+  },
+  "facing=south,mode=scry,stage=base3": {
+   "model": "tarbound:block/tar_antenna_base3",
+   "x": 90,
+   "y": 180
+  },
+  "facing=south,mode=tithe,stage=base3": {
+   "model": "tarbound:block/tar_antenna_base3",
+   "x": 90,
+   "y": 180
+  },
+  "facing=south,mode=commune,stage=mid3": {
+   "model": "tarbound:block/tar_antenna_mid3",
+   "x": 90,
+   "y": 180
+  },
+  "facing=south,mode=scry,stage=mid3": {
+   "model": "tarbound:block/tar_antenna_mid3",
+   "x": 90,
+   "y": 180
+  },
+  "facing=south,mode=tithe,stage=mid3": {
+   "model": "tarbound:block/tar_antenna_mid3",
+   "x": 90,
+   "y": 180
+  },
+  "facing=south,mode=commune,stage=top3": {
+   "model": "tarbound:block/tar_antenna_top3_commune",
+   "x": 90,
+   "y": 180
+  },
+  "facing=south,mode=scry,stage=top3": {
+   "model": "tarbound:block/tar_antenna_top3_scry",
+   "x": 90,
+   "y": 180
+  },
+  "facing=south,mode=tithe,stage=top3": {
+   "model": "tarbound:block/tar_antenna_top3_tithe",
+   "x": 90,
+   "y": 180
+  },
+  "facing=west,mode=commune,stage=single": {
+   "model": "tarbound:block/tar_antenna_single_commune",
+   "x": 90,
+   "y": 270
+  },
+  "facing=west,mode=scry,stage=single": {
+   "model": "tarbound:block/tar_antenna_single_scry",
+   "x": 90,
+   "y": 270
+  },
+  "facing=west,mode=tithe,stage=single": {
+   "model": "tarbound:block/tar_antenna_single_tithe",
+   "x": 90,
+   "y": 270
+  },
+  "facing=west,mode=commune,stage=base2": {
+   "model": "tarbound:block/tar_antenna_base2",
+   "x": 90,
+   "y": 270
+  },
+  "facing=west,mode=scry,stage=base2": {
+   "model": "tarbound:block/tar_antenna_base2",
+   "x": 90,
+   "y": 270
+  },
+  "facing=west,mode=tithe,stage=base2": {
+   "model": "tarbound:block/tar_antenna_base2",
+   "x": 90,
+   "y": 270
+  },
+  "facing=west,mode=commune,stage=top2": {
+   "model": "tarbound:block/tar_antenna_top2_commune",
+   "x": 90,
+   "y": 270
+  },
+  "facing=west,mode=scry,stage=top2": {
+   "model": "tarbound:block/tar_antenna_top2_scry",
+   "x": 90,
+   "y": 270
+  },
+  "facing=west,mode=tithe,stage=top2": {
+   "model": "tarbound:block/tar_antenna_top2_tithe",
+   "x": 90,
+   "y": 270
+  },
+  "facing=west,mode=commune,stage=base3": {
+   "model": "tarbound:block/tar_antenna_base3",
+   "x": 90,
+   "y": 270
+  },
+  "facing=west,mode=scry,stage=base3": {
+   "model": "tarbound:block/tar_antenna_base3",
+   "x": 90,
+   "y": 270
+  },
+  "facing=west,mode=tithe,stage=base3": {
+   "model": "tarbound:block/tar_antenna_base3",
+   "x": 90,
+   "y": 270
+  },
+  "facing=west,mode=commune,stage=mid3": {
+   "model": "tarbound:block/tar_antenna_mid3",
+   "x": 90,
+   "y": 270
+  },
+  "facing=west,mode=scry,stage=mid3": {
+   "model": "tarbound:block/tar_antenna_mid3",
+   "x": 90,
+   "y": 270
+  },
+  "facing=west,mode=tithe,stage=mid3": {
+   "model": "tarbound:block/tar_antenna_mid3",
+   "x": 90,
+   "y": 270
+  },
+  "facing=west,mode=commune,stage=top3": {
+   "model": "tarbound:block/tar_antenna_top3_commune",
+   "x": 90,
+   "y": 270
+  },
+  "facing=west,mode=scry,stage=top3": {
+   "model": "tarbound:block/tar_antenna_top3_scry",
+   "x": 90,
+   "y": 270
+  },
+  "facing=west,mode=tithe,stage=top3": {
+   "model": "tarbound:block/tar_antenna_top3_tithe",
+   "x": 90,
+   "y": 270
+  },
+  "facing=east,mode=commune,stage=single": {
+   "model": "tarbound:block/tar_antenna_single_commune",
+   "x": 90,
+   "y": 90
+  },
+  "facing=east,mode=scry,stage=single": {
+   "model": "tarbound:block/tar_antenna_single_scry",
+   "x": 90,
+   "y": 90
+  },
+  "facing=east,mode=tithe,stage=single": {
+   "model": "tarbound:block/tar_antenna_single_tithe",
+   "x": 90,
+   "y": 90
+  },
+  "facing=east,mode=commune,stage=base2": {
+   "model": "tarbound:block/tar_antenna_base2",
+   "x": 90,
+   "y": 90
+  },
+  "facing=east,mode=scry,stage=base2": {
+   "model": "tarbound:block/tar_antenna_base2",
+   "x": 90,
+   "y": 90
+  },
+  "facing=east,mode=tithe,stage=base2": {
+   "model": "tarbound:block/tar_antenna_base2",
+   "x": 90,
+   "y": 90
+  },
+  "facing=east,mode=commune,stage=top2": {
+   "model": "tarbound:block/tar_antenna_top2_commune",
+   "x": 90,
+   "y": 90
+  },
+  "facing=east,mode=scry,stage=top2": {
+   "model": "tarbound:block/tar_antenna_top2_scry",
+   "x": 90,
+   "y": 90
+  },
+  "facing=east,mode=tithe,stage=top2": {
+   "model": "tarbound:block/tar_antenna_top2_tithe",
+   "x": 90,
+   "y": 90
+  },
+  "facing=east,mode=commune,stage=base3": {
+   "model": "tarbound:block/tar_antenna_base3",
+   "x": 90,
+   "y": 90
+  },
+  "facing=east,mode=scry,stage=base3": {
+   "model": "tarbound:block/tar_antenna_base3",
+   "x": 90,
+   "y": 90
+  },
+  "facing=east,mode=tithe,stage=base3": {
+   "model": "tarbound:block/tar_antenna_base3",
+   "x": 90,
+   "y": 90
+  },
+  "facing=east,mode=commune,stage=mid3": {
+   "model": "tarbound:block/tar_antenna_mid3",
+   "x": 90,
+   "y": 90
+  },
+  "facing=east,mode=scry,stage=mid3": {
+   "model": "tarbound:block/tar_antenna_mid3",
+   "x": 90,
+   "y": 90
+  },
+  "facing=east,mode=tithe,stage=mid3": {
+   "model": "tarbound:block/tar_antenna_mid3",
+   "x": 90,
+   "y": 90
+  },
+  "facing=east,mode=commune,stage=top3": {
+   "model": "tarbound:block/tar_antenna_top3_commune",
+   "x": 90,
+   "y": 90
+  },
+  "facing=east,mode=scry,stage=top3": {
+   "model": "tarbound:block/tar_antenna_top3_scry",
+   "x": 90,
+   "y": 90
+  },
+  "facing=east,mode=tithe,stage=top3": {
+   "model": "tarbound:block/tar_antenna_top3_tithe",
+   "x": 90,
+   "y": 90
+  }
+ }
+}

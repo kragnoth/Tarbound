@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/lectern",
+  "textures": {
+    "particle": "tarbound:block/scribing_lectern_sides",
+    "bottom": "minecraft:block/dark_oak_planks",
+    "base": "tarbound:block/scribing_lectern_base",
+    "front": "tarbound:block/scribing_lectern_front",
+    "sides": "tarbound:block/scribing_lectern_sides",
+    "top": "tarbound:block/scribing_lectern_top"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "neoforge:conditions": [ { "type": "neoforge:mod_loaded", "modid": "create" } ],
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "category": "misc",
+  "key": {
+    "A": { "item": "minecraft:dirt" },
+    "B": { "item": "minecraft:cobblestone" },
+    "C": { "item": "minecraft:sand" }
+  },
+  "pattern": [
+    "AB",
+    "C "
+  ],
+  "result": { "count": 1, "id": "minecraft:sponge" },
+  "show_notification": false
+}

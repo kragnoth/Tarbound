@@ -1,0 +1,7 @@
+{
+  "sources": [
+    { "type": "minecraft:single", "resource": "minecraft:entity/skeleton/skeleton" },
+    { "type": "minecraft:single", "resource": "minecraft:entity/enchanting_table_book" },
+    { "type": "minecraft:single", "resource": "minecraft:particle/soul_1" }
+  ]
+}

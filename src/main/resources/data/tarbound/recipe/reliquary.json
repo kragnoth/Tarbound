@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bone_block"
+    },
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "minecraft:soul_fire_base_blocks"
+    },
+    {
+      "item": "tarbound:tar_bucket"
+    }
+  ],
+  "result": {
+    "id": "tarbound:reliquary",
+    "count": 1
+  }
+}

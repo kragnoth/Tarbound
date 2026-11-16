@@ -1,0 +1,23 @@
+{
+  "parent": "tarbound:antenna",
+  "display": {
+    "icon": {
+      "id": "minecraft:lightning_rod"
+    },
+    "title": {
+      "translate": "advancements.tarbound.cell_tower.title"
+    },
+    "description": {
+      "translate": "advancements.tarbound.cell_tower.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

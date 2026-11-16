@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "tarbound:block/scribing_lectern" },
+    "facing=east":  { "model": "tarbound:block/scribing_lectern", "y": 90 },
+    "facing=south": { "model": "tarbound:block/scribing_lectern", "y": 180 },
+    "facing=west":  { "model": "tarbound:block/scribing_lectern", "y": 270 }
+  }
+}

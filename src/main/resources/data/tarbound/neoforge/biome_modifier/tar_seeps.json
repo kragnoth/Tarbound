@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#tarbound:has_tar_seeps",
+  "features": "tarbound:tar_seep",
+  "step": "lakes"
+}

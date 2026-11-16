@@ -1,0 +1,36 @@
+{
+  "parent": "tarbound:researcher_cabin",
+  "display": {
+    "icon": {
+      "id": "tarbound:tar_antenna"
+    },
+    "title": {
+      "translate": "advancements.tarbound.drowned_radio.title"
+    },
+    "description": {
+      "translate": "advancements.tarbound.drowned_radio.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "tarbound:drowned_radio"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

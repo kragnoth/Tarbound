@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " R ",
+    "WA ",
+    "IBI"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:lightning_rod"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:polished_blackstone"
+    },
+    "W": {
+      "item": "tarbound:weakened_soul"
+    }
+  },
+  "result": {
+    "id": "tarbound:tar_antenna",
+    "count": 1
+  }
+}

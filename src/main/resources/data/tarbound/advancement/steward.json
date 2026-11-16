@@ -1,0 +1,30 @@
+{
+  "parent": "tarbound:shade",
+  "display": {
+    "icon": {
+      "id": "tarbound:steward"
+    },
+    "title": {
+      "translate": "advancements.tarbound.steward.title"
+    },
+    "description": {
+      "translate": "advancements.tarbound.steward.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "tarbound:steward"
+          }
+        ]
+      }
+    }
+  }
+}

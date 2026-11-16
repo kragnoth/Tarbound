@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "tag": "c:strings"
+    },
+    "T": {
+      "tag": "c:tallow"
+    }
+  },
+  "pattern": [
+    "S",
+    "T"
+  ],
+  "result": {
+    "id": "minecraft:candle",
+    "count": 1
+  }
+}

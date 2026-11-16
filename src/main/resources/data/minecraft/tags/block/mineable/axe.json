@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tarbound:scribing_lectern",
+    "tarbound:tar_soaked_log",
+    "tarbound:tar_soaked_planks",
+    "tarbound:pitch_cask",
+    "tarbound:votive_rack",
+    "tarbound:weeping_seep"
+  ]
+}

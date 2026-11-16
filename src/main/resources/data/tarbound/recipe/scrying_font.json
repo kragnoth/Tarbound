@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "INI",
+    "ATA",
+    "III"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "N": { "item": "minecraft:note_block" },
+    "A": { "item": "minecraft:amethyst_shard" },
+    "T": { "item": "tarbound:tar_bucket" }
+  },
+  "result": { "id": "tarbound:scrying_font", "count": 1 }
+}

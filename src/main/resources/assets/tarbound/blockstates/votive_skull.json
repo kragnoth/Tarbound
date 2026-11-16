@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "tarbound:block/votive_skull"
+    },
+    "lit=true": {
+      "model": "tarbound:block/votive_skull_lit"
+    }
+  }
+}

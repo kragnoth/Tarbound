@@ -1,0 +1,14 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "tarbound:charnel_crypt",
+        "projection": "rigid",
+        "processors": "tarbound:charnel_crypt_decay"
+      }
+    }
+  ]
+}

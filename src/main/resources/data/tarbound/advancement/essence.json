@@ -1,0 +1,30 @@
+{
+  "parent": "tarbound:scrying_font",
+  "display": {
+    "icon": {
+      "id": "tarbound:essence_of_the_void_bucket"
+    },
+    "title": {
+      "translate": "advancements.tarbound.essence.title"
+    },
+    "description": {
+      "translate": "advancements.tarbound.essence.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "tarbound:essence_of_the_void_bucket"
+          }
+        ]
+      }
+    }
+  }
+}

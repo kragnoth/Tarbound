@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "tarbound:block/tar_soaked_log_top",
+    "side": "tarbound:block/tar_soaked_log"
+  }
+}

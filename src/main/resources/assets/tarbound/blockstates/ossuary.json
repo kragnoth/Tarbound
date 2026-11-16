@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tarbound:block/ossuary"
+    },
+    "facing=east": {
+      "model": "tarbound:block/ossuary",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tarbound:block/ossuary",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tarbound:block/ossuary",
+      "y": 270
+    }
+  }
+}
